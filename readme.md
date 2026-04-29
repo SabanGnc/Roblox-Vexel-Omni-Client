@@ -80,4 +80,4 @@ Sunucudaki diğer oyunculara karşı mutlak üstünlük.
 Bu script tamamen eğitim ve konsept kanıtlama (Proof of Concept) amacıyla yazılmıştır. Roblox'un Hizmet Şartları'na (TOS) aykırı özellikleri barındırabilir. Bu yazılımın kullanımından doğabilecek oyun içi uzaklaştırmalar (Ban) veya hesap kapanmalarından tamamen **kullanıcı sorumludur**. Lütfen ana (main) hesaplarınızda kullanmadan önce yan hesaplarda (alt-account) test ediniz.
 
 ---
-*Geliştirici: [Senin GitHub Adın / Nickin]* | *Vexel Omni Client © 2026*
+*Geliştirici: [SabanGnc / Vexel]* | *Vexel Omni Client © 2026*
